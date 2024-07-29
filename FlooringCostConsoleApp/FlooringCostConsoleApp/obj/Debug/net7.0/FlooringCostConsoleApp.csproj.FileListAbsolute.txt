@@ -1,0 +1,14 @@
+C:\Users\colli\source\repos\FlooringCostConsoleApp\FlooringCostConsoleApp\bin\Debug\net7.0\FlooringCostConsoleApp.exe
+C:\Users\colli\source\repos\FlooringCostConsoleApp\FlooringCostConsoleApp\bin\Debug\net7.0\FlooringCostConsoleApp.deps.json
+C:\Users\colli\source\repos\FlooringCostConsoleApp\FlooringCostConsoleApp\bin\Debug\net7.0\FlooringCostConsoleApp.runtimeconfig.json
+C:\Users\colli\source\repos\FlooringCostConsoleApp\FlooringCostConsoleApp\bin\Debug\net7.0\FlooringCostConsoleApp.dll
+C:\Users\colli\source\repos\FlooringCostConsoleApp\FlooringCostConsoleApp\bin\Debug\net7.0\FlooringCostConsoleApp.pdb
+C:\Users\colli\source\repos\FlooringCostConsoleApp\FlooringCostConsoleApp\obj\Debug\net7.0\FlooringCostConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colli\source\repos\FlooringCostConsoleApp\FlooringCostConsoleApp\obj\Debug\net7.0\FlooringCostConsoleApp.AssemblyInfoInputs.cache
+C:\Users\colli\source\repos\FlooringCostConsoleApp\FlooringCostConsoleApp\obj\Debug\net7.0\FlooringCostConsoleApp.AssemblyInfo.cs
+C:\Users\colli\source\repos\FlooringCostConsoleApp\FlooringCostConsoleApp\obj\Debug\net7.0\FlooringCostConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\colli\source\repos\FlooringCostConsoleApp\FlooringCostConsoleApp\obj\Debug\net7.0\FlooringCostConsoleApp.dll
+C:\Users\colli\source\repos\FlooringCostConsoleApp\FlooringCostConsoleApp\obj\Debug\net7.0\refint\FlooringCostConsoleApp.dll
+C:\Users\colli\source\repos\FlooringCostConsoleApp\FlooringCostConsoleApp\obj\Debug\net7.0\FlooringCostConsoleApp.pdb
+C:\Users\colli\source\repos\FlooringCostConsoleApp\FlooringCostConsoleApp\obj\Debug\net7.0\FlooringCostConsoleApp.genruntimeconfig.cache
+C:\Users\colli\source\repos\FlooringCostConsoleApp\FlooringCostConsoleApp\obj\Debug\net7.0\ref\FlooringCostConsoleApp.dll
