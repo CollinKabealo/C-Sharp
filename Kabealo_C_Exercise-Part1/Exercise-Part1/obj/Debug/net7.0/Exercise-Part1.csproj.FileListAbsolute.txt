@@ -1,0 +1,14 @@
+C:\Users\colli\source\repos\Kabealo_C_Exercise-Part1\Exercise-Part1\bin\Debug\net7.0\Exercise-Part1.exe
+C:\Users\colli\source\repos\Kabealo_C_Exercise-Part1\Exercise-Part1\bin\Debug\net7.0\Exercise-Part1.deps.json
+C:\Users\colli\source\repos\Kabealo_C_Exercise-Part1\Exercise-Part1\bin\Debug\net7.0\Exercise-Part1.runtimeconfig.json
+C:\Users\colli\source\repos\Kabealo_C_Exercise-Part1\Exercise-Part1\bin\Debug\net7.0\Exercise-Part1.dll
+C:\Users\colli\source\repos\Kabealo_C_Exercise-Part1\Exercise-Part1\bin\Debug\net7.0\Exercise-Part1.pdb
+C:\Users\colli\source\repos\Kabealo_C_Exercise-Part1\Exercise-Part1\obj\Debug\net7.0\Exercise-Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colli\source\repos\Kabealo_C_Exercise-Part1\Exercise-Part1\obj\Debug\net7.0\Exercise-Part1.AssemblyInfoInputs.cache
+C:\Users\colli\source\repos\Kabealo_C_Exercise-Part1\Exercise-Part1\obj\Debug\net7.0\Exercise-Part1.AssemblyInfo.cs
+C:\Users\colli\source\repos\Kabealo_C_Exercise-Part1\Exercise-Part1\obj\Debug\net7.0\Exercise-Part1.csproj.CoreCompileInputs.cache
+C:\Users\colli\source\repos\Kabealo_C_Exercise-Part1\Exercise-Part1\obj\Debug\net7.0\Exercise-Part1.dll
+C:\Users\colli\source\repos\Kabealo_C_Exercise-Part1\Exercise-Part1\obj\Debug\net7.0\refint\Exercise-Part1.dll
+C:\Users\colli\source\repos\Kabealo_C_Exercise-Part1\Exercise-Part1\obj\Debug\net7.0\Exercise-Part1.pdb
+C:\Users\colli\source\repos\Kabealo_C_Exercise-Part1\Exercise-Part1\obj\Debug\net7.0\Exercise-Part1.genruntimeconfig.cache
+C:\Users\colli\source\repos\Kabealo_C_Exercise-Part1\Exercise-Part1\obj\Debug\net7.0\ref\Exercise-Part1.dll
